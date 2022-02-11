@@ -1,5 +1,5 @@
 Hi im updating in dev branch
 I am updating this line 
-this file contains the deployment logic
+this file contains the deployment login
 
-im updating this line for demonstrate pull rquest PR
+this line added in uat to demonstrate pull rquest PR
